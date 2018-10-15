@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Beatriz Alves Barros de Sousa](https://github.com/biaalves)
+ - Place: Recife, Brazil
+ - Bio: COmputer Engeneering Student.
+ - GitHub: [biaalves](https://github.com/biaalves)
